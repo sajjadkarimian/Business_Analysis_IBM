@@ -70,7 +70,7 @@ evidence base as the risk register, not a generic template.
 - Of 15 identified project risks, **7 are High priority**, spanning Operational, Technical, and
   Stakeholder categories in roughly equal measure.
 
-Full findings, recommendations, and conclusion are in the [Final Presentation](07-Final-Presentation/).
+Full findings, recommendations, and conclusion are in the [Final Presentation](07-Final-Presentation.pdf/).
 
 ---
 
